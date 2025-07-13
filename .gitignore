@@ -1,0 +1,11 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore document files
+*.docx
+
+# Ignore PDF files
+*.pdf
